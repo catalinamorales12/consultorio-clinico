@@ -3,7 +3,6 @@
 Sistema para administrar citas medicas.
 
 ## Instalación y configuración
-
 1. Instalar Java JDK 11.
 2. Instalar IntelliJ IDEA.
 3. Clonar este repositorio:
@@ -11,7 +10,6 @@ Sistema para administrar citas medicas.
    git clone https://github.com/catalinamorales12/consultorio-citas.git
    
 ## Uso del programa
-
 1. Abre el proyecto en IntelliJ IDEA.
 2. Ejecuta la clase `Main.java`.
 3. Inicia sesión con:
@@ -26,6 +24,10 @@ Sistema para administrar citas medicas.
    6.-Listar citas
 
 ## Creditos
-Nombre:Erika Catalina Morales Salazar
+Nombre: Erika Catalina Morales Salazar
+
+## Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
 
 
