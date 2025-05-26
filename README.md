@@ -25,5 +25,7 @@ Sistema para administrar citas medicas.
    5.-Listar pacientes
    6.-Listar citas
 
+## Creditos
+Nombre:Erika Catalina Morales Salazar
 
 
