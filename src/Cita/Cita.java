@@ -10,3 +10,5 @@ public class Cita {
     public Medico medico;
     public Paciente paciente;
 }
+
+
